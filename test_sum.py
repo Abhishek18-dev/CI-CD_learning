@@ -5,4 +5,4 @@ def test_sum():
     assert sum(2,3) == 5
     assert sum(4,3) == 7
 def test_mul():
-    assert mul(2,9) == 6
+    assert mul(2,3) == 6
